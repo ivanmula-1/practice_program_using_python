@@ -3,5 +3,6 @@ num2 = (float(input('Enter second number: ')))
 
 if num1 != num2:
     print('The numbers are not equal')
-
+else:
+    print("both numbers are equal")
 
