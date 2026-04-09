@@ -1,0 +1,1 @@
+s = input("Enter string with leading spaces: ")
