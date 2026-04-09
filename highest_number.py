@@ -6,3 +6,5 @@ while True:
         numbers.append(num)
     except ValueError:
         break
+if numbers:
+    print("Highest number:", max(numbers))
